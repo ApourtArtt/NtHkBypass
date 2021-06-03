@@ -1,7 +1,6 @@
 package main
 
 import (
-	"fmt"
 	"io/ioutil"
 	"os"
 	"path/filepath"
@@ -16,7 +15,6 @@ func patternScan(data, needle, mask []byte, offset int) int {
 			}
 		}
 		if j == len(needle) {
-			fmt.Println(data[i : i+50])
 			return i + offset
 		}
 	}
