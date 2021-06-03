@@ -6,5 +6,5 @@ Bypass Xigncode verification on Nostale HK server
 - Throw NostaleX.dat in the same directory
 - Start NtHkBypass.exe
 - Copy Bypass.exe which just got created in Nostale HK directory
-- Rename Bypass.exe by NostaleX.dat
+- Rename Bypass.dat by NostaleX.dat
 - Enjoy
